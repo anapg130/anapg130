@@ -36,23 +36,17 @@
      
   ## getProjects() {  <br>
 
-  
-
-  <table border="1">
-  <tr>
-    <td><img src="URL_IMAGEN_1" alt="Descripción 1"></td>
-    <td><img src="https://github.com/anapg130/anapg130/assets/130589630/48c387e2-1923-4131-8356-82fbc2d01eb4"  alt="Imagen representativa del desarrollo front-end" width="20%"></td>
-    <td><img src="URL_IMAGEN_3" alt="Descripción 3"></td>
-    <td><img src="URL_IMAGEN_4" alt="Descripción 4"></td>
-    <td><img src="URL_IMAGEN_5" alt="Descripción 5"></td>
-  </tr>
-  <tr>
-    <td>Descripción 1</td>
-    <td>Descripción 2</td>
-    <td>Descripción 3</td>
-    <td>Descripción 4</td>
-    <td>Descripción 5</td>
-  </tr>
+  <table border="1" border-color="white" >
+    <tr>
+      <td><img src="https://github.com/anapg130/anapg130/assets/130589630/2ed79ee0-18f1-40f4-aa8f-ff2fbe8632e9" alt="Imagen representativa del diseño gráfico"></td>
+      <td><img src="https://github.com/anapg130/anapg130/assets/130589630/48c387e2-1923-4131-8356-82fbc2d01eb4"  alt="Imagen representativa del desarrollo front-end" width="20%"></td>
+      <td><img src="https://github.com/anapg130/anapg130/assets/130589630/2ed79ee0-18f1-40f4-aa8f-ff2fbe8632e9" alt="Imagen representativa del desarrollo UX-UI"></td>
+    </tr>
+    <tr>
+      <td>Descripción 1</td>
+      <td>Descripción 2</td>
+      <td>Descripción 3</td>
+    </tr>
 </table>
 
 
