@@ -44,15 +44,14 @@
     </tr>
     <tr>
       <td> 
-        System.out.println <br>
-        ("Error: "No description. Projects are in progress " + e.getMessage());<br></td>   
+        System.out.println ("Error: "No description. Projects are in progress " + e.getMessage());
+      </td>   
       <td>
-        <h6>
-       System.out.println <br>
-        ("Error: "No description. Projects are in progress " + e.getMessage()); </h6> <br></td>
+         System.out.println ("Error: "No description. Projects are in progress " + e.getMessage()); 
+      </td>
       <td>
-        System.out.println <br>
-        ("Error: "No description. Projects are in progress " + e.getMessage());<br></td>
+        System.out.println ("Error: "No description. Projects are in progress " + e.getMessage());
+      </td>
     </tr>
 </table>
 
