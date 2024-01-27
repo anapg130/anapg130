@@ -1,6 +1,4 @@
-</head> 
-<link rel="stylesheet" href="styles.css">
-  <body>
+ <body style = "margin: 0; padding: 0; background-color: #f2f2f2; color: #333; align-items: center;">
       <header>
           <code>
               <h1>class AnaPazos </h1>
@@ -86,4 +84,3 @@
       </footer> 
       <img class="logo"  src="images/logo.png" alt="">
   </body>
-</html>
