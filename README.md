@@ -7,7 +7,7 @@
 ## getAboutMe() {  <br>
 
 <div color="#5b9b07";>
-   <em> <-- Datos personales --> </em>
+   <em> <-- Personal Information --> </em>
 </div> <br>
     <blockquote>
         <em>this.name</em> = 'Ana Pazos';<br>
@@ -17,12 +17,12 @@
    </blockquote>
     
 <div color="#5b9b07";>
-   <em> <-- Descripción --> </em>
+   <em> <-- Description --> </em>
 </div> <br>
       <blockquote>
           <em>this.description</em> = () => { <br>
             <blockquote>
-                <br>  console.log(<br>
+              <br>  console.log(<br>
                    <br>"🌟 Hi, there! I’m a <b> Graphic Designer</b>,  <b>Front-end Developer</b>, and  <b> UX/UI Designer</b>.\n" + <br>
                     "🚀 I'm passionate about  <b>innovative design</b>, front-end development, and I love to stay up to date on  <b>new technologies</b>.\n" +<br>
                     "💼 I would love to collaborate on <b>projects</b> that challenge my <b>creativity</b> and skills in web application development.\n" +<br>
@@ -36,19 +36,64 @@
      
   ## getProjects() {  <br>
 
-  <table border="1" border-color="white" >
+  <table border="1" >
     <tr>
-      <td><img src="https://github.com/anapg130/anapg130/assets/130589630/2ed79ee0-18f1-40f4-aa8f-ff2fbe8632e9" alt="Imagen representativa del diseño gráfico"></td>
-      <td><img src="https://github.com/anapg130/anapg130/assets/130589630/48c387e2-1923-4131-8356-82fbc2d01eb4"  alt="Imagen representativa del desarrollo front-end" width="20%"></td>
-      <td><img src="https://github.com/anapg130/anapg130/assets/130589630/2ed79ee0-18f1-40f4-aa8f-ff2fbe8632e9" alt="Imagen representativa del desarrollo UX-UI"></td>
+      <td><img src="https://github.com/anapg130/anapg130/assets/130589630/fa22bfd0-12c8-4eb4-bdd4-f7367529fdea" alt="Graphic Design Project"></td>
+      <td><img src="https://github.com/anapg130/anapg130/assets/130589630/48c387e2-1923-4131-8356-82fbc2d01eb4" alt="Front-end Development Project"></td>
+      <td><img src="https://github.com/anapg130/anapg130/assets/130589630/2ed79ee0-18f1-40f4-aa8f-ff2fbe8632e9" alt="UX/UI Development Project"></td>
     </tr>
     <tr>
-      <td>Descripción 1</td>
-      <td>Descripción 2</td>
-      <td>Descripción 3</td>
+      <td> 
+        System.out.println <br>
+        ("Error: "No description. Projects are in progress " + e.getMessage());<br></td>   
+      <td>
+        <h6>
+       System.out.println <br>
+        ("Error: "No description. Projects are in progress " + e.getMessage()); </h6> <br></td>
+      <td>
+        System.out.println <br>
+        ("Error: "No description. Projects are in progress " + e.getMessage());<br></td>
     </tr>
 </table>
 
+## getSkills() {  <br>
 
- 
-  
+<div color="#5b9b07">
+   <em> <-- Skills list --> </em>
+</div> <br>
+
+<em>return</em>  [<br>
+  <blockquote>
+<div color="#5b9b07";>
+   <em> <-- Web Development --> </em>
+</div> <br>
+     <blockquote>
+       'HTML5',  'CSS3',  'JavaSscript', 'JAVA', 'SASS', 'XML','XSD', 'DTD', 'NeatBeans','XML Copy Editor', <br>
+       'Visual Studio Code', 'GitHub', 'Dreamweaver', 'Wordpress', 'Elementor', 'HubSpot',
+     </blockquote> 
+  <div color="#5b9b07";>
+   <em> <-- Graphic Design --> </em>
+</div> <br>
+     <blockquote>
+     'Photoshop', 'Illustrator', 'InDesign', 'Adobe XD', 'Figma', 
+     </blockquote>
+     <div color="#5b9b07";>
+   <em><-- Video editing --> </em>
+  </div><br>
+      <blockquote>
+      'Premiere Pro', 'Final Cut Pro X', 'After Effects', 
+      </blockquote>
+       <div color="#5b9b07";>
+   <em><-- Office automation --> </em>
+  </div><br>
+   <blockquote>  
+   'Microsoft Word', 'Microsoft Excel',  'Microsoft PowerPoint',<br>
+
+   </blockquote>
+    </blockquote>  
+]; <br>
+<h2>}</h2>
+
+## getCredits() {  <br>
+<h5><em> return </em> [ &copy; 2024 Ana Pazos. All rights reserved. ];</h5> 
+<h2>}</h2><br>
