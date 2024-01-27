@@ -23,9 +23,9 @@
           <em>this.description</em> = () => { <br>
             <blockquote>
                 <br>  console.log(<br>
-                   <br>"🌟 Hi, there! I’m a <b> Graphic Designer</b>, Front-end Developer, and UX/UI Designer.\n" + <br>
-                    "🚀 I'm passionate about innovative design, front-end development, and I love to stay up to date on new technologies.\n" +<br>
-                    "💼 I would love to collaborate on projects that challenge my creativity and skills in web application development.\n" +<br>
+                   <br>"🌟 Hi, there! I’m a <b> Graphic Designer</b>,  <b>Front-end Developer</b>, and  <b> UX/UI Designer</b>.\n" + <br>
+                    "🚀 I'm passionate about  <b>innovative design</b>, front-end development, and I love to stay up to date on  <b>new technologies</b>.\n" +<br>
+                    "💼 I would love to collaborate on <b>projects</b> that challenge my <b>creativity</b> and skills in web application development.\n" +<br>
                     "Let's connect here on GitHub!😊"<br>
              <br>      );<br>
               </blockquote>
@@ -35,4 +35,9 @@
     <h2>}</h2> 
      
   ## getProjects() {  <br>
+
+  <img src="https://github.com/anapg130/anapg130/assets/130589630/48c387e2-1923-4131-8356-82fbc2d01eb4" width="20%">
+
+
+ 
   
