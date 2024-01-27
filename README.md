@@ -42,20 +42,14 @@
       <td><img src="https://github.com/anapg130/anapg130/assets/130589630/48c387e2-1923-4131-8356-82fbc2d01eb4" alt="Front-end Development Project"></td>
       <td><img src="https://github.com/anapg130/anapg130/assets/130589630/2ed79ee0-18f1-40f4-aa8f-ff2fbe8632e9" alt="UX/UI Development Project"></td>
     </tr>
-    <tr>
-      <td> 
-        System.out.println ("Error: "No description. Projects are in progress " + e.getMessage());
-      </td>   
-      <td>
-         System.out.println ("Error: "No description. Projects are in progress " + e.getMessage()); 
-      </td>
-      <td>
-        System.out.println ("Error: "No description. Projects are in progress " + e.getMessage());
-      </td>
-    </tr>
-</table>
+  </table> 
+  
+  ```js
+  System.out.println ("Error: "No description. Projects are in progress.");
+  ```
+<h2>}</h2> 
 
-## getSkills() {  <br>
+## getSkills() { <br>
 
 <div color="#5b9b07">
    <em> <-- Skills list --> </em>
