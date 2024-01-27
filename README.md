@@ -41,7 +41,7 @@
               </code>
               <img src="images/gd.png" alt="Proyecto GD">
               <img src="images/usuario.png" alt="Proyecto Usuario">
-              <img src="images/frontend.png" alt="Proyecto Frontend"><br>
+              <img src="[images/frontend.png](https://github.com/anapg130/anapg130/issues/2#issue-2103591609)" alt="Proyecto Frontend"><br>
               <code>
                   <br><h2>}</h2>
               </code>
