@@ -24,12 +24,15 @@
             <blockquote>
                 <br>  console.log(<br>
                    <br>"🌟 Hi, there! I’m a <b> Graphic Designer</b>, Front-end Developer, and UX/UI Designer.\n" + <br>
-                    "🚀 Passionate about exploring innovative design solutions, mastering front-end development, and staying updated on cutting-edge web technologies.\n" +<br>
-                    "💼 Looking to collaborate on projects that challenge my creativity and technical skills in web application development.\n" +<br>
+                    "🚀 I'm passionate about innovative design, front-end development, and I love to stay up to date on new technologies.\n" +<br>
+                    "💼 I would love to collaborate on projects that challenge my creativity and skills in web application development.\n" +<br>
                     "Let's connect here on GitHub!😊"<br>
-                   );<br>
+             <br>      );<br>
               </blockquote>
            }<br>
           <br> 
       </blockquote>
-    <h2>}</h2> <br>
+    <h2>}</h2> 
+     
+  ## getProjects() {  <br>
+  
